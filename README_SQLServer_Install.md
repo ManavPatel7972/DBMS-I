@@ -2,6 +2,11 @@
 
 This guide shows **exactly 20 steps** to install **SQL Server Express**, **SQL Server Management Studio (SSMS)**, and connect to your local SQL Server instance on Windows.
 
+---
+
+
+### SQL Server Installation Process Video Link :
+ https://streamable.com/ypp4v6
 
 ---
 
